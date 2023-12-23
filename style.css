@@ -9,5 +9,17 @@ h1{
 	text-align:center;
 }
 body{
-	background-color;green;
+	background-color:red;
+}
+
+ul li{
+	display:inline;
+	font-size:20px;
+	color:#fff;
+	text-align:center;
+}
+ul {
+	text-align:center;
+	color:blue;
+	font-size:50px;	
 }
